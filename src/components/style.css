@@ -1,0 +1,61 @@
+
+#tip-calculator {
+    margin-top: auto; 
+    background: url("./image1.jpeg")no-repeat fixed center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.textedit{ 
+    text-align: center;
+    columns: #000000;;
+}
+
+.outer {
+    position: absolute;
+    top: 50%;
+    left:50%;   
+    transform: translate(-50%,-50%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: white;
+}
+
+#inputs, #results {
+    float: left;
+    padding:20px;
+    background-color: white;
+    border-color: #ffffff;
+    border-left-color: darkgray; 
+}
+
+#tipPercentage {
+    margin-left: 40px;
+    ;
+}
+
+#tipPercentage input {
+    margin: 5px;
+    
+}
+
+.button{
+    
+  background-color: #4CAF50; /* Green */
+  border: solid;
+  color: white;
+  padding: 5px 15px;
+  position: center;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 130px
+}
+
+
+.btn-success{
+    width: 90px;
+    margin-left: 120px;
+    position:center;
+}
