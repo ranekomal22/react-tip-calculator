@@ -14,7 +14,7 @@ Demo:
 Usage Example:
 ---------------
 
-- This tip calculator:
+This tip calculator:
 - Takes in the value of the bill
 - Takes in the desired tip percentage
 - Includes the option to split the tip amount by number of people at the table
