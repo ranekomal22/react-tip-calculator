@@ -3,7 +3,7 @@ import FormSection from "./FormSection";
 import ResultSection from "./ResultSection";
 
 class TipCalculator extends React.Component {
-    constructor(){
+    constructor(props){
         super();
 
         this.state = {
