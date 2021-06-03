@@ -2,12 +2,12 @@ Tip-Calculator
 =================
 
 This React application calculates the amount of tip per table, and even per person if split option is chosen. The tip calculator keeps track of the user input without a submit button
-![ScreenShot](/Users/komal/Desktop/projects/react-tip-calculator/src/image/image1.png)
+![ScreenShot](/src/image/image1.png)
 
 Demo:
 ---------------
 
-[https://kr-tipcalculator-a8969f.netlify.app/]:(https://kr-tipcalculator-a8969f.netlify.app/)
+[https://kr-tipcalculator-a8969f.netlify.app/](https://kr-tipcalculator-a8969f.netlify.app/)
 
 Usage Example:
 ---------------
