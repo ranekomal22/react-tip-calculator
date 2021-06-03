@@ -1,10 +1,7 @@
 Tip-Calculator
 =================
 
-This React application calculates the amount of tip per table, and even per person if split option is chosen. The tip calculator keeps track of the user input without a submit button
-
-
-![ScreenShot](src/image/image1.jpg|width=300|height=400)
+This React application calculates the amount of tip per table, and even per person if split option is chosen. The tip calculator keeps track of the user input without a submit button.
 
 Demo:
 ---------------
